@@ -25,25 +25,29 @@ This is a simple Python program that collects, stores, and displays personal inf
 
 ```bash
 python personal_info.py
-🧪 Testing
 
+
+**🧪 Testing**
 You can test using sample inputs:
-
 python personal_info.py < test_inputs.txt
-📥 Inputs Required
+
+**📥 Inputs Required**
 Name
 Age
 City
 Hobby
 Favorite Food
 Favorite Color
-📤 Output
+
+**📤 Output**
 
 Displays all personal information in a formatted style along with age in months.
 
-✨ Future Improvements
+**✨ Future Improvements**
 Add file saving feature
 Create GUI using Tkinter
 Add edit/update options
-👨‍💻 Author
+
+
+**👨‍💻 Author**
 Aditya Sinha
