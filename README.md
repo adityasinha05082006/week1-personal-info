@@ -27,6 +27,8 @@ This is a simple Python program that collects, stores, and displays personal inf
 
 ```bash
 python personal_info.py
+
+
 🧪 Testing
 
 You can test using sample inputs:
